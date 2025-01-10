@@ -1,7 +1,9 @@
 # Higher-Order-functions-task 🖥️✨
 
 Welcome to the **Higher-Order-functions-Task** repository! 🚀
+
 Below you'll find a list of tasks we've solved using JavaScript, along with explanations and examples.
+
 Each task showcases a different JavaScript concept.💡
 
 ---
